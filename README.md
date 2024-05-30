@@ -15,7 +15,7 @@ This project implements a real time object and face detection using YOLO algorit
 To detect a single or multiple images, first clone the repository 
 
 `
-git clone https://github.com/shayantaherian/Object-detection/Pytorch_ObjectDetection/.git
+git clone https://github.com/Sirius1002/Object_detector_using-_YOLO/tree/main/OpenCV_FaceDetection
 `
 
 Then move to the directory
