@@ -71,7 +71,7 @@ python yolo_Opencv_video.py
 To run the face detector, first clone to the repository
 
 `
-git clone https://github.com/shayantaherian/Object-detection/OpenCV_FaceDetection/.git
+git clone https://github.com/Sirius1002/Object_detector_using-_YOLO/tree/main/OpenCV_FaceDetection
 `
 Then move to the directory 
 
